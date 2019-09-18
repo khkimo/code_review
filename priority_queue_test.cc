@@ -6,7 +6,7 @@
 // }
 
 
-TEST(PriorityQueueTest,Trivial){
+TEST(PriorityQueueTest,Trivial) {
 	templatePriorityQueue<int> expTarget;
 
 	//Test 1 - Initalize
